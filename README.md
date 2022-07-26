@@ -40,7 +40,7 @@
 
 In crisis and disasters, when missing information meets missing experiences, lives are in danger. Actually there is no sufficient and effective exchange between alls actors in the field and the higher level. hereIam will provide a homogeneous solution for information sharing and decision making in crisis and disasters. For this purpose we close information gaps, provide best practices and connects all actors to make them more effective. We build hereIam as simple as working with pen and paper.
 
-In close exchange with professionals, we have developed initial key requirements, with a focus on urban search & rescue. With this, we already achieve a high impact with the prototype for national and international operations, when it is necessary to record many injured and affected persons in a large damage area, to support the safety of the teams and to provide data for the next tasks. 
+In close exchange with professionals, we have developed initial key requirements, with a focus on urban search & rescue. With this, we already achieve a high impact with the prototype for national and international operations, when it is necessary to record many injured and affected persons in a large damage area, to support the safety of the teams and to provide data for next tasks. 
 
 Key features of **hereIam prototype**:
 
